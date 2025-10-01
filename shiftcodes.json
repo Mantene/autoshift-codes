@@ -339,8 +339,8 @@
         "platform": "universal",
         "reward": "Unknown",
         "archived": "2025-10-01 23:10:14.283949+00:00",
-        "expires": "Unknown",
-        "expired": false,
+        "expires": "2025-10-01 23:10:15.283949+00:00",
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
