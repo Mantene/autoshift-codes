@@ -6,11 +6,11 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-10-09T12:44:22.653595Z",
-        "epoch_ms": 1760013862653,
-        "central_local": "Oct 09, 2025, 07:44 AM UTC-05:00"
+        "utc_iso": "2025-10-09T22:44:30.097360Z",
+        "epoch_ms": 1760049870097,
+        "central_local": "Oct 09, 2025, 05:44 PM UTC-05:00"
       },
-      "newcodecount": 539
+      "newcodecount": 3
     },
     "codes": [
       {
@@ -372,6 +372,39 @@
         "platform": "universal",
         "reward": "1 Golden Key(End Credits)",
         "archived": "2025-10-09 12:44:18.349370+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "TZ6TT-FKBKB-W6T35-BTTB3-636SR",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Unknown",
+        "archived": "2025-10-09 22:44:25.636312+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "JH63B-S5TK3-KFJJC-BBB3T-5KR63",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Unknown",
+        "archived": "2025-10-09 22:44:25.636312+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "T963J-TRBKB-56JBW-3BJBJ-ZZ3JR",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Unknown",
+        "archived": "2025-10-09 22:44:25.636312+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
