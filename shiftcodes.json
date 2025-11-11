@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-11-05T01:22:45.054625Z",
-        "epoch_ms": 1762305765054,
-        "central_local": "Nov 04, 2025, 07:22 PM UTC-06:00"
+        "utc_iso": "2025-11-11T11:22:44.323722Z",
+        "epoch_ms": 1762860164323,
+        "central_local": "Nov 11, 2025, 05:22 AM UTC-06:00"
       },
-      "newcodecount": 1
+      "newcodecount": 3
     },
     "codes": [
+      {
+        "code": "B9RJJ-B5W9J-5XTJ5-J333J-653CZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Key",
+        "archived": "2025-11-05 01:22:39.950334+00:00",
+        "expires": "Nov 12, 2025",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "WHKJT-CBKHF-JSCHC-93B3J-5HHBJ",
         "type": "shift",
@@ -580,9 +591,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-10-22 17:53:03.950879+00:00",
+        "archived": "2025-11-11 11:22:39.937812+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -591,9 +602,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-10-22 17:53:03.950879+00:00",
+        "archived": "2025-11-11 11:22:39.937812+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -602,29 +613,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-10-22 17:53:03.950879+00:00",
-        "expires": "Unknown",
-        "expired": true,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "B9RJJ-B5W9J-5XTJ5-J333J-653CZ",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Unknown",
-        "archived": "2025-11-05 01:22:39.950334+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "WEWJB-XH3SX-39CZW-H3BBB-BPF55",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Unknown",
-        "archived": "2025-10-22 17:53:03.950879+00:00",
+        "archived": "2025-11-11 11:22:39.937812+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -667,7 +656,7 @@
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
-        "reward": "Vex Cosmetic\u201cPurple Friday\u201d",
+        "reward": "Vex Cosmetic\u201cMass Market Appeal\u201d",
         "archived": "2025-10-22 17:53:03.950879+00:00",
         "expires": "Dec 31, 2030",
         "expired": false,
