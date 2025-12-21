@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-12-20T19:42:42.163598Z",
-        "epoch_ms": 1766259762163,
-        "central_local": "Dec 20, 2025, 01:42 PM UTC-06:00"
+        "utc_iso": "2025-12-21T19:42:42.174079Z",
+        "epoch_ms": 1766346162174,
+        "central_local": "Dec 21, 2025, 01:42 PM UTC-06:00"
       },
       "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "3ZXJB-HZBHT-KX3BK-BBTT3-BHHXJ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vex Skin",
+        "archived": "2025-12-21 19:42:37.874468+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "J9XTB-SJWS3-WRTTC-BJTJJ-TH6TX",
         "type": "shift",
@@ -692,6 +703,17 @@
         "reward": "Unknown",
         "archived": "2025-11-16 03:14:04.829866+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3ZXJB-HZBHT-KX3BK-BBTT3-BHHXJ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter SkinChildren of the Vex",
+        "archived": "2025-12-21 19:42:37.874468+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
