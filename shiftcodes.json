@@ -6,13 +6,35 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-12-24T17:42:41.992587Z",
-        "epoch_ms": 1766598161992,
-        "central_local": "Dec 24, 2025, 11:42 AM UTC-06:00"
+        "utc_iso": "2025-12-26T19:42:41.979505Z",
+        "epoch_ms": 1766778161979,
+        "central_local": "Dec 26, 2025, 01:42 PM UTC-06:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "TSXBB-W9JH3-W63JC-TT33B-95JSX",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "2 Golden Keys",
+        "archived": "2025-12-26 19:42:37.722405+00:00",
+        "expires": "Dec 31, 2025",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "BZ6J3-3JKHB-CX3B5-TTJTT-HJBZW",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter Skin",
+        "archived": "2025-12-24 17:42:37.894163+00:00",
+        "expires": "Dec 31, 2025",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "3H6JT-3ZJZ3-KXBJK-TB3TB-J33CX",
         "type": "shift",
@@ -674,17 +696,6 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
-        "code": "BZ6J3-3JKHB-CX3B5-TTJTT-HJBZW",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Unknown",
-        "archived": "2025-12-24 17:42:37.894163+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
         "code": "B9RJJ-B5W9J-5XTJ5-J333J-653CZ",
         "type": "shift",
         "game": "Borderlands 4",
@@ -736,6 +747,17 @@
         "reward": "Unknown",
         "archived": "2025-11-16 03:14:04.829866+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "BZ6J3-3JKHB-CX3B5-TTJTT-HJBZW",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter SkinThe World on His Shoulders",
+        "archived": "2025-12-24 17:42:37.894163+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
