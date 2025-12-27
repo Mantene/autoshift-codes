@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-12-26T19:42:41.979505Z",
-        "epoch_ms": 1766778161979,
-        "central_local": "Dec 26, 2025, 01:42 PM UTC-06:00"
+        "utc_iso": "2025-12-27T17:42:41.807864Z",
+        "epoch_ms": 1766857361807,
+        "central_local": "Dec 27, 2025, 11:42 AM UTC-06:00"
       },
-      "newcodecount": 1
+      "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "3HX3J-RJWSJ-CFBBC-3BJ3B-RWZ36",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "A Winter Borderland Skin",
+        "archived": "2025-12-27 17:42:37.711231+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "TSXBB-W9JH3-W63JC-TT33B-95JSX",
         "type": "shift",
@@ -29,9 +40,9 @@
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
-        "reward": "Vault Hunter Skin",
+        "reward": "The World on His Shoulders Skin",
         "archived": "2025-12-24 17:42:37.894163+00:00",
-        "expires": "Dec 31, 2025",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
@@ -62,7 +73,7 @@
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
-        "reward": "Vex Skin",
+        "reward": "Children of the Vex Skin",
         "archived": "2025-12-21 19:42:37.874468+00:00",
         "expires": "Dec 31, 2030",
         "expired": false,
@@ -747,6 +758,17 @@
         "reward": "Unknown",
         "archived": "2025-11-16 03:14:04.829866+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3HX3J-RJWSJ-CFBBC-3BJ3B-RWZ36",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter SkinA Winter Borderland",
+        "archived": "2025-12-27 17:42:37.711231+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
