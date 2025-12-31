@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-12-29T17:42:42.124895Z",
-        "epoch_ms": 1767030162124,
-        "central_local": "Dec 29, 2025, 11:42 AM UTC-06:00"
+        "utc_iso": "2025-12-31T01:42:42.444121Z",
+        "epoch_ms": 1767145362444,
+        "central_local": "Dec 30, 2025, 07:42 PM UTC-06:00"
       },
-      "newcodecount": 1
+      "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "39FJB-CT5S3-5FTTW-BBB3J-F3HKZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Hype Squad Skin",
+        "archived": "2025-12-31 01:42:38.000995+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "396J3-6ZJ9J-KRJTW-TJ3BT-XK5H9",
         "type": "shift",
@@ -769,6 +780,17 @@
         "reward": "Unknown",
         "archived": "2025-12-28 03:42:37.748438+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "39FJB-CT5S3-5FTTW-BBB3J-F3HKZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter SkinHype Squad",
+        "archived": "2025-12-31 01:42:38.000995+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
