@@ -6,11 +6,11 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-12-31T01:42:42.444121Z",
-        "epoch_ms": 1767145362444,
-        "central_local": "Dec 30, 2025, 07:42 PM UTC-06:00"
+        "utc_iso": "2026-01-07T05:42:42.986646Z",
+        "epoch_ms": 1767764562986,
+        "central_local": "Jan 06, 2026, 11:42 PM UTC-06:00"
       },
-      "newcodecount": 2
+      "newcodecount": 1
     },
     "codes": [
       {
@@ -768,6 +768,17 @@
         "platform": "universal",
         "reward": "Unknown",
         "archived": "2025-12-28 03:42:37.748438+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3SRBB-9FWSJ-KRJBK-BBBT3-JXRCW",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Unknown",
+        "archived": "2026-01-07 05:42:38.075946+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
