@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-01-22T21:57:59.542575Z",
-        "epoch_ms": 1769119079542,
-        "central_local": "Jan 22, 2026, 03:57 PM UTC-06:00"
+        "utc_iso": "2026-01-29T22:07:28.807017Z",
+        "epoch_ms": 1769724448807,
+        "central_local": "Jan 29, 2026, 04:07 PM UTC-06:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "THFB3-R9XKK-CFBJW-T33BB-9R3CC",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Halloween Cosmetics",
+        "archived": "2026-01-29 22:07:12.863693+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "TZXJB-KZW9T-W63TW-BBT3T-SBH66",
         "type": "shift",
