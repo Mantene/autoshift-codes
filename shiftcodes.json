@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-02-20T03:45:53.391026Z",
-        "epoch_ms": 1771559153391,
-        "central_local": "Feb 19, 2026, 09:45 PM UTC-06:00"
+        "utc_iso": "2026-02-21T01:45:40.874076Z",
+        "epoch_ms": 1771638340874,
+        "central_local": "Feb 20, 2026, 07:45 PM UTC-06:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "39XJB-C36SB-5RBJC-TBJBT-SC9J3",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-02-20 03:45:36.569538+00:00",
+        "expires": "Feb 24, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "BH633-66F5C-WFBB5-33TJB-CBSR9",
         "type": "shift",
@@ -31,8 +42,8 @@
         "platform": "universal",
         "reward": "3 Golden Keys",
         "archived": "2026-02-18 15:45:29.443978+00:00",
-        "expires": "Feb 19, 2026",
-        "expired": false,
+        "expires": "JZF3T-T36HB-KX3BK-33J33-HTS3Z",
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -839,13 +850,24 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
-        "code": "39XJB-C36SB-5RBJC-TBJBT-SC9J3",
+        "code": "WH533-JXC9R-BSKSW-Z3BJB-RHJ55",
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2026-02-20 03:45:36.569538+00:00",
+        "archived": "2026-02-21 01:45:36.453829+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "BH633-66F5C-WFBB5-33TJB-CBSR9",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Vault Hunter SkinYou\u2019re So Vein",
+        "archived": "2026-02-18 15:45:29.443978+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
