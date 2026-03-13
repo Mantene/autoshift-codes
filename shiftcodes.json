@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-03-06T04:49:22.837354Z",
-        "epoch_ms": 1772772562837,
-        "central_local": "Mar 05, 2026, 10:49 PM UTC-06:00"
+        "utc_iso": "2026-03-13T03:48:07.805835Z",
+        "epoch_ms": 1773373687805,
+        "central_local": "Mar 12, 2026, 10:48 PM UTC-05:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "JHXTJ-Z3XHB-5FTJK-T3JJJ-HHJCZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-03-06 04:49:04.078886+00:00",
+        "expires": "Mar 10, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "5953B-RRK9X-BHWZK-S33BT-RXS93",
         "type": "shift",
@@ -894,12 +905,12 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
-        "code": "JHXTJ-Z3XHB-5FTJK-T3JJJ-HHJCZ",
+        "code": "BZ63J-TKF9T-WR3BK-3BBJJ-KWFWR",
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2026-03-06 04:49:04.078886+00:00",
+        "archived": "2026-03-13 03:47:51.451454+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
