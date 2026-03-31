@@ -6,21 +6,43 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-03-27T23:16:07.136657Z",
-        "epoch_ms": 1774653367136,
-        "central_local": "Mar 27, 2026, 06:16 PM UTC-05:00"
+        "utc_iso": "2026-03-31T09:16:22.774199Z",
+        "epoch_ms": 1774948582774,
+        "central_local": "Mar 31, 2026, 04:16 AM UTC-05:00"
       },
       "newcodecount": 1
     },
     "codes": [
       {
-        "code": "WH5TB-BS5SR-3HC9W-HT3B3-STRKW",
+        "code": "3ZR3T-6CSKW-WFTJC-JB33B-Z55ZT",
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "5 Golden Keys",
+        "archived": "2026-03-31 09:16:03.049309+00:00",
+        "expires": "Apr 30, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "THX3B-H9FCW-CRBT5-BBJ3T-SXT65",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "1 Golden KeyEllie DLC Credits",
+        "archived": "2026-03-27 23:16:02.727048+00:00",
+        "expires": "Never",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "WH5TB-BS5SR-3HC9W-HT3B3-STRKW",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "5 Golden KeysPax Code",
         "archived": "2026-03-26 21:16:02.737044+00:00",
-        "expires": "Mar 26, 2026",
+        "expires": "???",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
@@ -42,8 +64,8 @@
         "platform": "universal",
         "reward": "3 Golden Keys",
         "archived": "2026-03-19 17:16:02.740107+00:00",
-        "expires": "Mar 24, 2026",
-        "expired": false,
+        "expires": "3ZRJ3-KWRS3-C63JW-3JBBB-Z6S6X",
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -64,18 +86,7 @@
         "platform": "universal",
         "reward": "3 Golden Keys",
         "archived": "2026-03-13 03:47:51.451454+00:00",
-        "expires": "Mar 17, 2026",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "JHXTJ-Z3XHB-5FTJK-T3JJJ-HHJCZ",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "3 Golden Keys",
-        "archived": "2026-03-06 04:49:04.078886+00:00",
-        "expires": "JHXTJ-Z3XHB-5FTJK-T3JJJ-HHJCZ",
+        "expires": "BZ63J-TKF9T-WR3BK-3BBJJ-KWFWR",
         "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
@@ -883,14 +894,14 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
-        "code": "THX3B-H9FCW-CRBT5-BBJ3T-SXT65",
+        "code": "JHXTJ-Z3XHB-5FTJK-T3JJJ-HHJCZ",
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2026-03-27 23:16:02.727048+00:00",
+        "archived": "2026-03-06 04:49:04.078886+00:00",
         "expires": "Unknown",
-        "expired": false,
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -1044,6 +1055,17 @@
         "reward": "Break FreeCosmetic Pack",
         "archived": "2025-11-16 03:14:04.829866+00:00",
         "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "THX3B-H9FCW-CRBT5-BBJ3T-SXT65",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "1 Golden Key",
+        "archived": "2026-03-27 23:16:02.727048+00:00",
+        "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
