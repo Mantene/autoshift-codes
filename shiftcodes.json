@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-04-03T09:16:25.487047Z",
-        "epoch_ms": 1775207785487,
-        "central_local": "Apr 03, 2026, 04:16 AM UTC-05:00"
+        "utc_iso": "2026-04-06T21:16:07.146163Z",
+        "epoch_ms": 1775510167146,
+        "central_local": "Apr 06, 2026, 04:16 PM UTC-05:00"
       },
-      "newcodecount": 1
+      "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "3ZRT3-K59KK-W6BJ5-B3TJ3-9WT99",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "C4SH CosmeticLike Vermillion Bucks",
+        "archived": "2026-04-06 21:16:02.720331+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "3SFJB-SK6ZJ-KRTT5-B3BT3-3ST9W",
         "type": "shift",
@@ -913,6 +924,17 @@
         "archived": "2026-03-06 04:49:04.078886+00:00",
         "expires": "Unknown",
         "expired": true,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3ZRT3-K59KK-W6BJ5-B3TJ3-9WT99",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "C4SH CosmeticLike Vermillion Bucks",
+        "archived": "2026-04-06 21:16:02.720331+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
