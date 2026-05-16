@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-05-08T09:16:18.664762Z",
-        "epoch_ms": 1778231778664,
-        "central_local": "May 08, 2026, 04:16 AM UTC-05:00"
+        "utc_iso": "2026-05-16T07:16:17.624022Z",
+        "epoch_ms": 1778915777624,
+        "central_local": "May 16, 2026, 02:16 AM UTC-05:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "JHRJT-W9F93-WFJTK-3J3TT-Z6BK5",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-05-16 07:16:02.814383+00:00",
+        "expires": "May 19, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "3HF33-JHFZ3-CRBT5-33333-S5W3X",
         "type": "shift",
@@ -5438,17 +5449,6 @@
       },
       {
         "code": "KKWBB-5KJ6X-XSBF3-B3JT3-BWB6C",
-        "type": "shift",
-        "game": "Borderlands The Pre-Sequel",
-        "platform": "universal",
-        "reward": "5 Golden Keys",
-        "archived": "2025-11-16 03:14:07.183072+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
-      },
-      {
-        "code": "5K53J-J9HK6-FZ3RB-3BTT3-9JF39",
         "type": "shift",
         "game": "Borderlands The Pre-Sequel",
         "platform": "universal",
