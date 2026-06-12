@@ -6,11 +6,11 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-06-12T10:17:00.510038Z",
-        "epoch_ms": 1781259420510,
-        "central_local": "Jun 12, 2026, 05:17 AM UTC-05:00"
+        "utc_iso": "2026-06-12T22:16:58.600524Z",
+        "epoch_ms": 1781302618600,
+        "central_local": "Jun 12, 2026, 05:16 PM UTC-05:00"
       },
-      "newcodecount": 1
+      "newcodecount": 61
     },
     "codes": [
       {
@@ -151,9 +151,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2026-05-01 11:16:02.987755+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -162,9 +162,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2026-04-03 09:16:03.240724+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -294,9 +294,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-29 17:42:37.795190+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -305,9 +305,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-26 19:42:37.722405+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -316,9 +316,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-23 19:42:37.809930+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -327,9 +327,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-22 19:42:37.811479+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -338,9 +338,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-20 01:42:37.894726+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -349,9 +349,9 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-10 01:42:37.789410+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
-        "expired": true,
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -360,7 +360,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -371,7 +371,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -382,7 +382,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -393,7 +393,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -404,7 +404,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -415,7 +415,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -426,7 +426,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -437,7 +437,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -448,7 +448,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -459,7 +459,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -470,7 +470,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -481,7 +481,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -492,7 +492,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -503,7 +503,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -514,7 +514,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -525,7 +525,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -536,7 +536,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -547,7 +547,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -558,7 +558,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -569,7 +569,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -580,7 +580,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -591,7 +591,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -602,7 +602,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -613,7 +613,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -624,7 +624,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -635,7 +635,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -646,7 +646,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -657,7 +657,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -668,7 +668,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -679,7 +679,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -690,7 +690,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -701,7 +701,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -712,7 +712,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -723,7 +723,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -734,7 +734,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -745,7 +745,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -756,7 +756,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -767,7 +767,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -778,7 +778,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -789,7 +789,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -800,7 +800,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -811,7 +811,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -822,7 +822,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -833,7 +833,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -844,7 +844,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -855,7 +855,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -866,7 +866,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -877,7 +877,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -888,7 +888,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -899,7 +899,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -910,7 +910,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -921,7 +921,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -932,7 +932,7 @@
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "Unknown",
-        "archived": "2025-12-28 03:42:37.748438+00:00",
+        "archived": "2026-06-12 22:16:53.561585+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
