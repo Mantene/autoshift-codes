@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-09-10T16:43:04.259807Z",
-        "epoch_ms": 1789058584259,
-        "central_local": "Sep 10, 2026, 11:43 AM UTC-05:00"
+        "utc_iso": "2026-09-17T14:43:03.787466Z",
+        "epoch_ms": 1789656183787,
+        "central_local": "Sep 17, 2026, 09:43 AM UTC-05:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "BH6TT-9999T-WFTJW-J3BTB-3ZJW5",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-09-17 14:42:59.447254+00:00",
+        "expires": "Sept 22, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "T963B-FZ993-KXJB5-JTBJJ-6CBHW",
         "type": "shift",
@@ -20,8 +31,8 @@
         "platform": "universal",
         "reward": "3 Golden Keys",
         "archived": "2026-09-10 16:42:59.509166+00:00",
-        "expires": "Sept 15, 2026",
-        "expired": false,
+        "expires": "T963B-FZ993-KXJB5-JTBJJ-6CBHW",
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -955,28 +966,6 @@
         "platform": "universal",
         "reward": "Unknown",
         "archived": "2026-06-12 22:16:53.561585+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "BZ63J-TKF9T-WR3BK-3BBJJ-KWFWR",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Unknown",
-        "archived": "2026-07-18 18:03:27.631643+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "JHXTJ-Z3XHB-5FTJK-T3JJJ-HHJCZ",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Unknown",
-        "archived": "2026-07-18 18:03:27.631643+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
