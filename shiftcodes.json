@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-10-09T22:43:03.816613Z",
-        "epoch_ms": 1791585783816,
-        "central_local": "Oct 09, 2026, 05:43 PM UTC-05:00"
+        "utc_iso": "2026-10-10T08:43:05.484845Z",
+        "epoch_ms": 1791621785484,
+        "central_local": "Oct 10, 2026, 03:43 AM UTC-05:00"
       },
-      "newcodecount": 74
+      "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "3963J-FTBJK-KRBTW-BJBJ3-6Z3RX",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-10-10 08:42:59.406504+00:00",
+        "expires": "Oct 13, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "39FJ3-CTJTK-CXTBC-JTJ3T-W95RK",
         "type": "shift",
@@ -20,8 +31,8 @@
         "platform": "universal",
         "reward": "3 Golden Keys",
         "archived": "2026-09-30 20:42:59.503735+00:00",
-        "expires": "Oct 6, 2026",
-        "expired": false,
+        "expires": "39FJ3-CTJTK-CXTBC-JTJ3T-W95RK",
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -64,8 +75,8 @@
         "platform": "universal",
         "reward": "3 Golden Keys",
         "archived": "2026-09-24 18:42:59.498548+00:00",
-        "expires": "Sept 29, 2026",
-        "expired": false,
+        "expires": "BHFBJ-BBBBC-KXBJW-33TJ3-SX3H5",
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -150,7 +161,7 @@
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
-        "reward": "1 Golden KeyEllie DLC Credits",
+        "reward": "1 Golden KeySP 1+2 Credits",
         "archived": "2026-03-27 23:16:02.727048+00:00",
         "expires": "Never",
         "expired": false,
