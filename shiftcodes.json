@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-11-01T10:48:28.397660Z",
-        "epoch_ms": 1793530108397,
-        "central_local": "Nov 01, 2026, 04:48 AM UTC-06:00"
+        "utc_iso": "2026-11-02T20:48:26.419999Z",
+        "epoch_ms": 1793652506419,
+        "central_local": "Nov 02, 2026, 02:48 PM UTC-06:00"
       },
-      "newcodecount": 1
+      "newcodecount": 5
     },
     "codes": [
+      {
+        "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "20 Golden Keys",
+        "archived": "2026-11-02 20:48:22.000740+00:00",
+        "expires": "Nov 16, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "J9R33-CCTTC-WRBJ5-TJJB3-9BT5T",
         "type": "shift",
@@ -1433,6 +1444,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
+        "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
+        "type": "shift",
+        "game": "Borderlands: Game of the Year Edition",
+        "platform": "universal",
+        "reward": "20 Golden Keys",
+        "archived": "2026-11-02 20:48:22.776368+00:00",
+        "expires": "Nov 16, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
         "code": "CSKJJ-63XZ6-BSKHK-SBBJJ-RRB9F",
         "type": "shift",
         "game": "Borderlands: Game of the Year Edition",
@@ -2102,6 +2124,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
+        "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "20 Golden Keys",
+        "archived": "2026-11-02 20:48:23.553900+00:00",
+        "expires": "Nov 16, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
         "code": "CSKJJ-63XZ6-BSKHK-SBBJJ-RRB9F",
@@ -3809,6 +3842,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
+        "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "20 Golden Keys",
+        "archived": "2026-11-02 20:48:24.176379+00:00",
+        "expires": "Nov 16, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
         "code": "CSKJJ-63XZ6-BSKHK-SBBJJ-RRB9F",
         "type": "shift",
         "game": "Borderlands 3",
@@ -4621,6 +4665,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
+        "code": "CZKJJ-35RH6-T9K9C-9TJJT-SXRCT",
+        "type": "shift",
+        "game": "Borderlands The Pre-Sequel",
+        "platform": "universal",
+        "reward": "20 Golden Keys",
+        "archived": "2026-11-02 20:48:24.772059+00:00",
+        "expires": "Nov 16, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
         "code": "CSKJJ-63XZ6-BSKHK-SBBJJ-RRB9F",
