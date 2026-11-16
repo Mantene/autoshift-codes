@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-11-11T18:48:28.968110Z",
-        "epoch_ms": 1794422908968,
-        "central_local": "Nov 11, 2026, 12:48 PM UTC-06:00"
+        "utc_iso": "2026-11-16T20:48:26.376623Z",
+        "epoch_ms": 1794862106376,
+        "central_local": "Nov 16, 2026, 02:48 PM UTC-06:00"
       },
-      "newcodecount": 6
+      "newcodecount": 2
     },
     "codes": [
+      {
+        "code": "3S6B3-56Z5W-CFBJC-JTTBJ-ZW3BW",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "4 Weapon Skins",
+        "archived": "2026-11-16 20:48:21.826330+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "S6RJJ-6THZT-BJJTJ-TB3JT-R995J",
         "type": "shift",
@@ -1253,6 +1264,17 @@
         "reward": "Unknown",
         "archived": "2026-10-09 22:42:59.383138+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3S6B3-56Z5W-CFBJC-JTTBJ-ZW3BW",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "4 Weapon SkinsTroubled UpbringingTally Them AllMerch LineFresh Spray",
+        "archived": "2026-11-16 20:48:21.826330+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
