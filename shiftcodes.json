@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/Mantene/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2026-11-16T20:48:26.376623Z",
-        "epoch_ms": 1794862106376,
-        "central_local": "Nov 16, 2026, 02:48 PM UTC-06:00"
+        "utc_iso": "2026-11-26T00:37:59.191072Z",
+        "epoch_ms": 1795653479191,
+        "central_local": "Nov 25, 2026, 06:37 PM UTC-06:00"
       },
-      "newcodecount": 2
+      "newcodecount": 6
     },
     "codes": [
+      {
+        "code": "Z6RBB-9JZHB-BJJTT-JTJJT-3T5X9",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "5 Golden Keys",
+        "archived": "2026-11-26 00:37:54.584734+00:00",
+        "expires": "Dec 1, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "3S6B3-56Z5W-CFBJC-JTTBJ-ZW3BW",
         "type": "shift",
@@ -1477,6 +1488,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
+        "code": "Z6RBB-9JZHB-BJJTT-JTJJT-3T5X9",
+        "type": "shift",
+        "game": "Borderlands: Game of the Year Edition",
+        "platform": "universal",
+        "reward": "5 Golden Keys",
+        "archived": "2026-11-26 00:37:55.236629+00:00",
+        "expires": "Dec 1, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
         "code": "S6RJJ-6THZT-BJJTJ-TB3JT-R995J",
         "type": "shift",
         "game": "Borderlands: Game of the Year Edition",
@@ -2168,6 +2190,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-golden-keys/"
+      },
+      {
+        "code": "Z6RBB-9JZHB-BJJTT-JTJJT-3T5X9",
+        "type": "shift",
+        "game": "Borderlands 2",
+        "platform": "universal",
+        "reward": "5 Golden Keys",
+        "archived": "2026-11-26 00:37:55.859790+00:00",
+        "expires": "Dec 1, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
         "code": "S6RJJ-6THZT-BJJTJ-TB3JT-R995J",
@@ -3897,6 +3930,17 @@
         "link": "https://mentalmars.com/game-news/borderlands-2-golden-keys/"
       },
       {
+        "code": "Z6RBB-9JZHB-BJJTT-JTJJT-3T5X9",
+        "type": "shift",
+        "game": "Borderlands 3",
+        "platform": "universal",
+        "reward": "5 Golden Keys",
+        "archived": "2026-11-26 00:37:56.598452+00:00",
+        "expires": "Dec 1, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
         "code": "S6RJJ-6THZT-BJJTJ-TB3JT-R995J",
         "type": "shift",
         "game": "Borderlands 3",
@@ -4731,6 +4775,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
+      },
+      {
+        "code": "Z6RBB-9JZHB-BJJTT-JTJJT-3T5X9",
+        "type": "shift",
+        "game": "Borderlands The Pre-Sequel",
+        "platform": "universal",
+        "reward": "5 Golden Keys",
+        "archived": "2026-11-26 00:37:57.413970+00:00",
+        "expires": "Dec 1, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
       },
       {
         "code": "S6RJJ-6THZT-BJJTJ-TB3JT-R995J",
@@ -6205,6 +6260,17 @@
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/bltps-golden-keys/"
+      },
+      {
+        "code": "Z6RBB-9JZHB-BJJTT-JTJJT-3T5X9",
+        "type": "shift",
+        "game": "Tiny Tina's Wonderlands",
+        "platform": "universal",
+        "reward": "5 Skeleton Keys",
+        "archived": "2026-11-26 00:37:58.033545+00:00",
+        "expires": "Dec 1, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/tiny-tinas-wonderlands-shift-codes/"
       },
       {
         "code": "S6RJJ-6THZT-BJJTJ-TB3JT-R995J",
